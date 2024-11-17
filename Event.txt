@@ -1,0 +1,10 @@
+EXHIBITION:The Great Exhibition:2/5/2024:Museum of Contemporary Art,Lahore:1000:400:Jeff Koons and Andy Warhol:4.0
+WORKSHOP:Pottery Workshop:2/5/2024:Pak-China Friendship Centre,Islamabad:800:700:Bushra Ansari and Kanwal:9
+EXHIBITION:The Art Of Chaos:8/1/2024:Museum of Contemporary Arts,Lahore:500:3000:Jeff Koons and Andy Warhol:3.8
+WORKSHOP:Photography Workshop:8/1/2024:Ataturk Avenue,Islamabad:1000:1500:Tariq Hussain and Wahaj Muneer:11
+EXHIBITION:The Sound of Silence:12/6/2024:Lahore International Expo Centre,Lahore:700:1300:Martin Lewis:3.2
+WORKSHOP:Entrepreneurship Workshop:18/1/2024:Serena Hotel, Islamabad:1200:2000:Tariq Amjad and Tom Holland:6
+EXHIBITION:The Power of Words:19/6/2024:Karachi Expo Centre, Karachi:700:1000:Martin Lewis:3.0
+WORKSHOP:Cooking Workshop:13/11/2024:Movenpick Hotel, Karachi:900:1500:Allen Shrewds:10
+EXHIBITION:The Light Within:17/5/2024:Faletti's Hotel, Lahore:1600:1000:Martin Lewis:3.3
+WORKSHOP:Creative Writing Workshop:23/9/2024:The Nishat Hotel, Lahore:9700:2000:Micheal Jordon:4
