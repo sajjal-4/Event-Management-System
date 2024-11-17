@@ -1,8 +1,18 @@
+Here’s the updated documentation with the "Topics Covered" section placed after the Overview:
+
 # Event Management System
 
 ## Overview
 
 This Event Management System is a C++ application designed to manage various types of events, including workshops and exhibitions. It allows users to create, display, and update event details, calculate revenue, and handle data storage through file operations.
+
+## Topics Covered
+
+- Inheritance
+- Polymorphism
+- Operator Overloading
+- File Reading and Writing
+- Exception Handling
 
 ## Features
 
@@ -58,4 +68,4 @@ Feel free to submit issues or pull requests for improvements and features.
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details
